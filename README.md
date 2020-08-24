@@ -9,4 +9,5 @@
 将所有源代码文件，include，lib文件夹文件下载到项目文件夹中，将FFmpeg和SDL所
 有头文件拷贝到include文件夹下，并将FFmpeg和SDL有关动态库文件放入项目文件夹下
 使用cmake构建项目，项目会自动生成在build文件夹中，使用VC++打开项目，编译运行。
+
 注意事项：应根据下载的FFmpeg和SDL版本选择32位或64位。
