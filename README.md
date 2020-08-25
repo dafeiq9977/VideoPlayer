@@ -3,7 +3,7 @@
 
 基于FFmpeg和SDL实现简易视频播放器，播放器目前仅仅能够显示画面，不能播放声音。
 播放过程中按下F10可暂停视频，再次按下F10可继续播放视频。
-详细功能见[链接](https://www.baidu.com/)
+详细功能见[https://www.bilibili.com/video/bv1M5411h7VH](https://www.bilibili.com/video/bv1M5411h7VH)
 
 ## 项目构建说明
 将所有源代码文件，include，lib文件夹文件下载到项目文件夹中，将FFmpeg和SDL所
